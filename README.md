@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Alejandro Moreno Palmero
 ### **AI Engineer | Especialista en LLMs y Automatización de Procesos**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_Moreno_Palmero-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alejandro-mo-pa)
-[![Email](https://img.shields.io/badge/Email-amopa@outlook.es-red?style=flat&logo=outlook)](mailto:amopa@outlook.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_Moreno_Palmero-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alejandro-mo-pa/)
+[![Email](https://img.shields.io/badge/Email-amopa@outlook.es-0078D4?style=flat&logo=microsoft-outlook)](mailto:amopa@outlook.es)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-605372709-success?style=flat&logo=whatsapp)](https://wa.me/34605372709)
 
 ---
@@ -98,6 +98,6 @@ Ingeniero de IA especializado en **automatizar y optimizar procesos de negocio**
 ¿Interesado en colaborar en proyectos de IA o automatización?  
 ¡No dudes en contactarme!
 
-[![Email](https://img.shields.io/badge/Email-amopa@outlook.es-red?style=for-the-badge&logo=gmail)](mailto:amopa@outlook.es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
+[![Email](https://img.shields.io/badge/Email-amopa@outlook.es-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:amopa@outlook.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alejandro-mo-pa/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Hablemos-success?style=for-the-badge&logo=whatsapp)](https://wa.me/34605372709)
